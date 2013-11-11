@@ -1,0 +1,10 @@
+<div>
+    <ul>
+        <li>
+            <a href="#payment" class="tab_link">Make a Payment</a>
+        </li>
+        <li>
+            <a href="#refund" class="tab_link">Perform refund</a>
+        </li>
+    </ul>
+</div>
